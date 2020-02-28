@@ -1,0 +1,6 @@
+C:\Users\Aluno\Documents\SharpDevelop Projects\aa\aa\bin\Debug\aa.exe.config
+C:\Users\Aluno\Documents\SharpDevelop Projects\aa\aa\bin\Debug\aa.exe
+C:\Users\Aluno\Documents\SharpDevelop Projects\aa\aa\bin\Debug\aa.pdb
+C:\Users\Aluno\Documents\SharpDevelop Projects\aa\aa\obj\Debug\aa.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\SharpDevelop Projects\aa\aa\obj\Debug\aa.exe
+C:\Users\Aluno\Documents\SharpDevelop Projects\aa\aa\obj\Debug\aa.pdb

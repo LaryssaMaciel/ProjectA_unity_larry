@@ -1,0 +1,6 @@
+C:\Users\Aluno\Documents\SharpDevelop Projects\aa\aa\obj\Debug\Dialogos_Teste.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\SharpDevelop Projects\aa\aa\bin\Debug\Dialogos_Teste.exe.config
+C:\Users\Aluno\Documents\SharpDevelop Projects\aa\aa\bin\Debug\Dialogos_Teste.exe
+C:\Users\Aluno\Documents\SharpDevelop Projects\aa\aa\bin\Debug\Dialogos_Teste.pdb
+C:\Users\Aluno\Documents\SharpDevelop Projects\aa\aa\obj\Debug\Dialogos_Teste.exe
+C:\Users\Aluno\Documents\SharpDevelop Projects\aa\aa\obj\Debug\Dialogos_Teste.pdb
